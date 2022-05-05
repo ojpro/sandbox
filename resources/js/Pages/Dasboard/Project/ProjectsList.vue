@@ -815,7 +815,8 @@
 </template>
 
 <script>
-import DashboardLayout from "../../Layouts/DashboardLayout";
+// TODO: use @ notation from webpack to simplify the imports
+import DashboardLayout from "../../../Layouts/DashboardLayout";
 
 export default {
   name: "ProjectsList",

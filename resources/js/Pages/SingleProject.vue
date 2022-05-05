@@ -1,6 +1,7 @@
 <template>
   <basic-layout>
     <!-- Project carousel -->
+    <!--  TODO: not working exactly  -->
     <div class="w-full bg-gray-400 text-center">
 
       <div id="default-carousel" class="relative" data-carousel="static">
